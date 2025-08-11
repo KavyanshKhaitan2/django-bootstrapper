@@ -6,7 +6,7 @@ Questions asked in the steps:
 - [x] Do you want me to install Django-Tailwind? (Yes)
 ## TODO
 - [ ] Do you want me to setup auth? (Yes)
-- [ ] Do you want me to init a uv project? (No is not an option!)
+- [ ] Do you want me to setup celery? (No)
 - [ ] Provide a Github repo name (optional) (E.g. KavyanshKhaitan2/django-bootstrapper) *Requires git in path to be connected to remote
 
 # How to run while development
